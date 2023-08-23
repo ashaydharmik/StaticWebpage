@@ -159,7 +159,7 @@
   /* border: 0.1rem solid white; */
   /* color: white; */
   margin-left: 3rem;
-
+cursor:pointer;
   width: 30%;
   border-radius: 1rem;
 }
@@ -200,6 +200,7 @@
   width: 30%;
   font-weight: 500;
   border-radius: 1rem;
+  cursor:pointer;
 }
 .box3-2 .btn1 {
     
@@ -391,6 +392,7 @@
   background-color: rgb(31 31 31);
 }
 .in2 i {
+   cursor:pointer;
   font-size: 3rem;
   color: #c3c1c1;
   background-color: rgb(31 31 31);
@@ -404,6 +406,7 @@
   background-color: rgb(31 31 31);
 }
 .in3 i {
+   cursor:pointer;
   font-size: 3rem;
   color: #c3c1c1;
   padding-right: 3rem;
@@ -536,6 +539,7 @@
   justify-content: space-between;
   padding: 1rem;
   border-radius: 0.7rem;
+   cursor:pointer;
 }
 
 /* seven- */
@@ -545,6 +549,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+ 
 }
 .seven .btn {
   font-size: 1.8rem;
@@ -552,6 +557,7 @@
   padding: 0.8rem 6.5rem;
   border: 0.1rem solid white;
   border-radius: 4rem;
+   cursor:pointer;
 }
 
 /* eight */
