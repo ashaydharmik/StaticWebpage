@@ -159,7 +159,7 @@
   /* border: 0.1rem solid white; */
   /* color: white; */
   margin-left: 3rem;
-cursor:pointer;
+cursor: pointer;
   width: 30%;
   border-radius: 1rem;
 }
@@ -200,7 +200,8 @@ cursor:pointer;
   width: 30%;
   font-weight: 500;
   border-radius: 1rem;
-  cursor:pointer;
+cursor: pointer;
+
 }
 .box3-2 .btn1 {
     
@@ -557,7 +558,7 @@ cursor:pointer;
   padding: 0.8rem 6.5rem;
   border: 0.1rem solid white;
   border-radius: 4rem;
-   cursor:pointer;
+  cursor: pointer;
 }
 
 /* eight */
